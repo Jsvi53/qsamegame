@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/samegame">C:/Users/28581/Desktop/qttest/game3/build/Qt_5_12_9_mingw73_64_568ba2-Debug/samegame</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/qsamegame/">
+        <file>samegame.qml</file>
+        <file>pics/background.jpg</file>
+        <file>pics/blueStar.png</file>
+        <file>pics/blueStone.png</file>
+        <file>pics/greenStar.png</file>
+        <file>pics/greenStone.png</file>
+        <file>pics/redStar.png</file>
+        <file>pics/redStone.png</file>
+    </qresource>
+</RCC>

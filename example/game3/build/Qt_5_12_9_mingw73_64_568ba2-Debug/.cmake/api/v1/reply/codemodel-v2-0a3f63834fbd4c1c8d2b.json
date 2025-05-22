@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e821d83f966c2a72b4d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "samegame4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-de04f8758f7ae313a812.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-db6d19f771561c406d34.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-8e21ec8c1c6a6c0bb634.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-540bca10a94b76369825.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-6834a1b9cb9c3f547429.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_samegame4_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_samegame4_aotstats_target-Debug-87f8dd6edacf2427cc65.json",
+					"name" : "module_samegame4_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samegame4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samegame4-Debug-e85286a95fd64764f800.json",
+					"name" : "samegame4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samegame4_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samegame4_autogen-Debug-a2afd3e5478d03c2aab3.json",
+					"name" : "samegame4_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samegame4_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samegame4_autogen_timestamp_deps-Debug-19be3e0faa25df1d63bd.json",
+					"name" : "samegame4_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samegame4_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samegame4_copy_qml-Debug-25ef0fd7ef91e043f0b8.json",
+					"name" : "samegame4_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samegame4_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samegame4_copy_res-Debug-32ad8eb1cf1903a8639b.json",
+					"name" : "samegame4_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samegame4_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samegame4_qmlimportscan-Debug-2139b58fc543fbb99c7f.json",
+					"name" : "samegame4_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samegame4_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samegame4_qmllint-Debug-872c2a3694ca2f847651.json",
+					"name" : "samegame4_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samegame4_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samegame4_qmllint_json-Debug-45eee2c3a874a84d579f.json",
+					"name" : "samegame4_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samegame4_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samegame4_qmllint_module-Debug-7f7777fb5120765c5831.json",
+					"name" : "samegame4_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "samegame4_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-samegame4_qmltyperegistration-Debug-3e6f0afbf33ee5e535af.json",
+					"name" : "samegame4_qmltyperegistration",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/28581/Desktop/qttest/game3/build/Qt_5_12_9_mingw73_64_568ba2-Debug",
+		"source" : "C:/Users/28581/Desktop/qttest/game3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

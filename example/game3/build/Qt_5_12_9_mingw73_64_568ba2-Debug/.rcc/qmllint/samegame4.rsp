@@ -1,0 +1,14 @@
+--bare
+-I
+C:/Users/28581/Desktop/qttest/game3/build/Qt_5_12_9_mingw73_64_568ba2-Debug
+-I
+D:/program/Qt/6.8.2/mingw_64/qml
+--resource
+C:/Users/28581/Desktop/qttest/game3/build/Qt_5_12_9_mingw73_64_568ba2-Debug/.qt/rcc/qmake_samegame.qrc
+--resource
+C:/Users/28581/Desktop/qttest/game3/build/Qt_5_12_9_mingw73_64_568ba2-Debug/.qt/rcc/samegame4_raw_qml_0.qrc
+C:/Users/28581/Desktop/qttest/game3/BoomBlock.qml
+C:/Users/28581/Desktop/qttest/game3/Button.qml
+C:/Users/28581/Desktop/qttest/game3/Dialog.qml
+C:/Users/28581/Desktop/qttest/game3/samegame.qml
+C:/Users/28581/Desktop/qttest/game3/samegame.js

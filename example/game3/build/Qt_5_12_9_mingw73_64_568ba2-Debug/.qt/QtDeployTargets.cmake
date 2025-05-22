@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_samegame4_FILE C:/Users/28581/Desktop/qttest/game3/build/Qt_5_12_9_mingw73_64_568ba2-Debug/samegame4.exe)
+set(__QT_DEPLOY_TARGET_samegame4_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_samegame4_RUNTIME_DLLS D:/program/Qt/6.8.2/mingw_64/bin/Qt6Quick.dll;D:/program/Qt/6.8.2/mingw_64/bin/Qt6QmlMeta.dll;D:/program/Qt/6.8.2/mingw_64/bin/Qt6QmlWorkerScript.dll;D:/program/Qt/6.8.2/mingw_64/bin/Qt6QmlModels.dll;D:/program/Qt/6.8.2/mingw_64/bin/Qt6Qml.dll;D:/program/Qt/6.8.2/mingw_64/bin/Qt6Network.dll;D:/program/Qt/6.8.2/mingw_64/bin/Qt6OpenGL.dll;D:/program/Qt/6.8.2/mingw_64/bin/Qt6Gui.dll;D:/program/Qt/6.8.2/mingw_64/bin/Qt6Core.dll)

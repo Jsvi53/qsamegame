@@ -1,0 +1,7 @@
+module samegame
+typeinfo samegame4.qmltypes
+prefer :/qt/qml/samegame/
+BoomBlock 254.0 BoomBlock.qml
+Button 254.0 Button.qml
+Dialog 254.0 Dialog.qml
+

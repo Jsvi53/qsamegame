@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/qt/qml/samegame/">
+    <file alias="BoomBlock.qml">C:/Users/28581/Desktop/qttest/game3/BoomBlock.qml</file>
+    <file alias="Button.qml">C:/Users/28581/Desktop/qttest/game3/Button.qml</file>
+    <file alias="Dialog.qml">C:/Users/28581/Desktop/qttest/game3/Dialog.qml</file>
+    <file alias="samegame.qml">C:/Users/28581/Desktop/qttest/game3/samegame.qml</file>
+    <file alias="samegame.js">C:/Users/28581/Desktop/qttest/game3/samegame.js</file>
+    <file alias="highscores/README">C:/Users/28581/Desktop/qttest/game3/highscores/README</file>
+    <file alias="highscores/score_data.xml">C:/Users/28581/Desktop/qttest/game3/highscores/score_data.xml</file>
+    <file alias="highscores/score_style.xsl">C:/Users/28581/Desktop/qttest/game3/highscores/score_style.xsl</file>
+    <file alias="highscores/scores.php">C:/Users/28581/Desktop/qttest/game3/highscores/scores.php</file>
+    <file alias="pics/background.jpg">C:/Users/28581/Desktop/qttest/game3/pics/background.jpg</file>
+    <file alias="pics/blueStar.png">C:/Users/28581/Desktop/qttest/game3/pics/blueStar.png</file>
+    <file alias="pics/blueStone.png">C:/Users/28581/Desktop/qttest/game3/pics/blueStone.png</file>
+    <file alias="pics/greenStar.png">C:/Users/28581/Desktop/qttest/game3/pics/greenStar.png</file>
+    <file alias="pics/greenStone.png">C:/Users/28581/Desktop/qttest/game3/pics/greenStone.png</file>
+    <file alias="pics/redStar.png">C:/Users/28581/Desktop/qttest/game3/pics/redStar.png</file>
+    <file alias="pics/redStone.png">C:/Users/28581/Desktop/qttest/game3/pics/redStone.png</file>
+  </qresource>
+</RCC>
+
